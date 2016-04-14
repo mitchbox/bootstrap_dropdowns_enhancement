@@ -2,6 +2,7 @@
     "name": "bootstrap_dropdowns_enhancement",
     "version": "3.1.1",
     "description": "Bootstrap Dropdown Menus Enhancement (Enhancing functionality of dropdown menus)",
+    "main": "js/dropdowns-enhancement.js",
     "dependencies": {},
     "devDependencies": {
         "grunt": "~0.4.4",
